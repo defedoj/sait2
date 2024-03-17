@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+.src img{
+    width: 300px;
+    height: 150px;
+}
+p{
+  color: rgb(238, 67, 238);
+}
+.src{
+    display: flex;
+}
+
+
